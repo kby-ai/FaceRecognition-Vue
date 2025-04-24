@@ -37,7 +37,6 @@ You can visit our YouTube video [here](https://www.youtube.com/watch?v=HpDggnWsG
 
 
 ## Support
-- To request a SDK, please contact us:</br>
 🧙`Email:` contact@kby-ai.com</br>
 🧙`Telegram:` [@kbyai](https://t.me/kbyai)</br>
 🧙`WhatsApp:` [+19092802609](https://wa.me/+19092802609)</br>
