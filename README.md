@@ -20,39 +20,8 @@
 
 ## Overview
 
-Explore `Completely free and open source` face recognition `Vue Plugin`, top ranked by `NIST` in the `FRVT` 1:1 leaderboards.
+Explore `Completely free and open source` face recognition `Vue Plugin`.
 
-> In this repository, we implemented our face recognition model through `ONNX Runtim` framework to run it on web browser.</br>
-### ◾FaceSDK(Mobile) Details
-
-  | Basic      | 🔽 Standard | Premium |
-  |------------------|------------------|------------------|
-  | Face Detection        | <b>Face Detection</b>    | Face Detection |
-  | Face Liveness Detection        | <b>Face Liveness Detection</b>    | Face Liveness Detection |
-  | Pose Estimation        | <b>Pose Estimation</b>    | Pose Estimation |
-  |         | <b>Face Recognition</b>    | Face Recognition |
-  |         |         | 68 points Face Landmark Detection |
-  |         |         | Face Quality Calculation |
-  |         |         | Face Occlusion Detection |
-  |         |         | Eye Closure Detection |
-  |         |         | Age, Gender Estimation |
-
-### ◾FaceSDK(Mobile) Product List
-  | No.      | Repository | SDK Details |
-  |------------------|------------------|------------------|
-  | 1        | [Face Liveness Detection - Android](https://github.com/kby-ai/FaceLivenessDetection-Android)    | Basic SDK |
-  | 2        | [Face Liveness Detection - iOS](https://github.com/kby-ai/FaceLivenessDetection-iOS)    | Basic SDK |
-  | 3        | [Face Recognition + Face Liveness Detection - Android](https://github.com/kby-ai/FaceRecognition-Android)    | Standard SDK |
-  | 4        | [Face Recognition + Face Liveness Detection - iOS](https://github.com/kby-ai/FaceRecognition-iOS)    | Standard SDK |
-  | 5        | [Face Recognition + Face Liveness Detection - Flutter](https://github.com/kby-ai/FaceRecognition-Flutter)        | Standard SDK |
-  | 6        | [Face Recognition + Face Liveness Detection - Ionic-Cordova](https://github.com/kby-ai/FaceRecognition-Ionic-Cordova)        | Standard SDK |
-  | 7        | [Face Recognition + Face Liveness Detection - React-Native](https://github.com/kby-ai/FaceRecognition-React-Native)        | Standard SDK |
-  | 8        | [Face Attribute - Android](https://github.com/kby-ai/FaceAttribute-Android)        | Premium SDK |
-  | 9        | [Face Attribute - iOS](https://github.com/kby-ai/FaceAttribute-iOS)        | Premium SDK |
-  | 10        | [Face Attribute - Flutter](https://github.com/kby-ai/FaceAttribute-Flutter)        | Premium SDK |
-
-
- > To get `Face SDK(server)`, please visit products [here](https://github.com/kby-ai/Product).<br/>
 ## Try the APK
 
 ### Google Play
