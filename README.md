@@ -62,8 +62,7 @@ You can visit our YouTube video [here](https://www.youtube.com/watch?v=HpDggnWsG
    ```
 ## 📞 Support
 
-- 🧙 **Email:** contact@kby-ai.com  
-- 🧙 **Telegram:** [@kbyai](https://t.me/kbyaisupport)  
-- 🧙 **WhatsApp:** [+13348402323](https://wa.me/+13348402323)  
-- 🧙 **Discord:** [KBY-AI Community](https://discord.gg/6wm383re2s)  
-- 🧙 **Microsoft Teams:** [Join Here](https://teams.live.com/l/invite/FBAYGB1-IlXkuQM3AY)
+🧙`Email:` contact@kby-ai.com</br>
+🧙`Telegram:` [@kbyaisupport](https://t.me/kbyaisupport)</br>
+🧙`WhatsApp:` [+1 (334) 840-2323](https://wa.me/+13348402323)</br>
+🧙`Discord:` [KBY-AI Community](https://discord.gg/dRQgmnEDR)</br>
